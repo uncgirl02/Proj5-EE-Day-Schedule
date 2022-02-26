@@ -13,6 +13,13 @@ textarea{
   padding: 10px;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+
+
 .jumbotron {
   text-align: center;
   background-color: transparent;
